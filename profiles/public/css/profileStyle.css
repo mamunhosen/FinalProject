@@ -1,0 +1,54 @@
+
+body{
+	font-family: 'Raleway', sans-serif;
+}
+.navItem{
+    font-family: 'Roboto', sans-serif;
+	
+
+}
+.navItem .nav{
+
+	padding-left: 20px;
+}
+.profileContents{
+    font-family: 'Raleway', sans-serif;
+	margin-top: 30px;
+}
+ .image img{
+
+   height:200px;
+   width:200px;
+   border:2px solid white;
+	
+}
+.col-sm-5>p{
+	text-align: justify;
+}
+.profileDetails{
+	margin-top: 20px;
+	color: #757575;
+}
+.notification{
+	margin-right:30px;
+}
+.messageBox>a>img{
+	padding-top:3px;
+	color:white;
+	
+}
+#imagePreview img{
+
+   height:180px;
+   width:180px;
+   border:5px solid  #9e9e9e;
+}
+.updateAddressField{
+  margin-top: 50px;
+}
+.star{
+	color: red;
+}
+
+
+
